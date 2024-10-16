@@ -1,6 +1,6 @@
 {
   "Product": {
-    "name": "jessica的小天地",
+    "name": "Jessica的小天地",
     "solgan": "创意到剧本，AI全程助力。"
   },
   "LandingPage": {
@@ -40,12 +40,12 @@
       },
       "testimonial2": {
         "name": "Michael Lee",
-        "role": "电影导演",
+        "role": "自导自演",
         "content": "ScriptCraft的场景编辑器让我能轻松可视化和完善每一个故事瞬间。"
       },
       "testimonial3": {
         "name": "Emily Rodriguez",
-        "role": "电视制片人",
+        "role": "说唱一哥",
         "content": "AI辅助工具帮助我无数次克服了写作障碍。强烈推荐！"
       }
     },
